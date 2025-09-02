@@ -326,6 +326,7 @@ plastic_waste %>%
     color = "Continent") +
   theme_minimal()
 ```
+Interpretation: This graph shows the the percent of the population that lives on the coast and how much plastic waste in generated per capita. This can show the relationship between coastal living continents and plastic waste. Continents like Oceania have a higher coastal population and a wide range of plastic waste per capita. Africa has a lower coastal living and lower plastic waste per capita. The black line shows the average line of the points, so you can tell if points are above or below the average. 
 
 🧶 ✅ ⬆️ Knit, *commit, and push your changes to GitHub with an appropriate commit message. Make sure to commit and push all changed files so that your Git pane is cleared up afterwards and review the md document on GitHub to make sure you're happy with the final state of your work.*
 
